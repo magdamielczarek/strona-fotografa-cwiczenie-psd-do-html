@@ -1,0 +1,93 @@
+{"images": [
+  {
+  "category": "nature",
+  "description": "a forest",
+  "source": "images/nature.jpg"
+  },
+  {
+  "category": "people",
+  "description": "a hitchhiker",
+  "source": "images/people.jpg"
+  },
+  {
+  "category": "wedding",
+  "description": "a wedding bouquet",
+  "source": "images/wedding.jpg"
+  },
+  {
+  "category": "architecture",
+  "description": "old fashioned bridge",
+  "source": "images/architecture.jpg"
+  },
+  {
+  "category": "urban",
+  "description": "public bikes",
+  "source": "images/urban.jpg"
+  },
+  {
+  "category": "animal",
+  "description": "a lion in zoo",
+  "source": "images/animal.jpg"
+  },
+  {
+  "category": "food",
+  "description": "chocolate cupcakes with cream and topping",
+  "source": "images/food.jpg"
+  },
+  {
+  "category": "workshops",
+  "description": "group of creative people working together",
+  "source": "images/workshops.jpg"
+  },
+  {
+  "category": "expecting",
+  "description": "pregnant woman with husband touching her belly",
+  "source": "images/expecting.jpg"
+  },
+  {
+  "category": "bodies",
+  "description": "a gymnast",
+  "source": "images/bodies.jpg"
+  },
+  {
+  "category": "interiors",
+  "description": "interior in modern style",
+  "source": "images/interiors.jpg"
+  },
+  {
+  "category": "celebration",
+  "description": "birthday cake",
+  "source": "images/celebration.jpg"
+  },
+  {
+  "category": "advertising",
+  "description": "bilboards",
+  "source": "images/advertising.jpg"
+  },
+  {
+  "category": "graduation",
+  "description": "graduates throwing their caps",
+  "source": "images/graduation.jpg"
+  },
+  {
+  "category": "craft",
+  "description": "sewing utilities",
+  "source": "images/craft.jpg"
+  },
+  {
+  "category": "fashion",
+  "description": "models on catwalk",
+  "source": "images/fashion.jpg"
+  },
+  {
+  "category": "art",
+  "description": "a viewer in gallery, admiring modern art",
+  "source": "images/art.jpg"
+  },
+  {
+  "category": "reportage",
+  "description": "a picket",
+  "source": "images/reportage.jpg"
+  }
+] }
+
