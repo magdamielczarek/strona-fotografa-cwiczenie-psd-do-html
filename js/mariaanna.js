@@ -193,4 +193,8 @@ menu_button.on('click', function(){
 	menu.slideToggle();
 });
 
+$(window).resize(function() {
+$("nav > ul").removeAttr("style");
+});
+
 }); // end of document ready function	
